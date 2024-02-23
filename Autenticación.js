@@ -5,7 +5,7 @@ function validar ()
    var user = document.login.username.value;
    var password = document.login.password.value;
    var valid = false;
-   var usernameArray = ["user"]
+   var usernameArray = ["usuario"]
    var passwordArray = ["123"]
    for (var i = 0; i < usernameArray.length; i++)
 
